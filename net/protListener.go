@@ -227,7 +227,11 @@ func initSystemUsersInfo() {
 			}
 			log.Fatal(err)
 		}
-		items := strings.Split(line, ":")
-		systemUsers[items[2]] = items[0]
+		if strings.HasPrefix(line, "#") {
+			log.Print("ignore comments line:", line)
+		} else {
+			items := strings.Split(line, ":")
+			systemUsers[items[2]] = items[0]
+		}
 	}
 }
