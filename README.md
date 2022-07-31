@@ -18,3 +18,5 @@ dev tool is a tool to simplify the daily use of commands for developers.
 [参考项目代码](https://github.com/crossoverJie/btb)
 
 [使用 Go 语言在 MacOS 创建一个自定义的命令行工具](https://learnku.com/articles/39252)
+
+[Go语言实现简易版netstat命令](https://www.cyub.vip/2020/11/22/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E7%89%88netstat%E5%91%BD%E4%BB%A4/) => [go 实现netstat功能代码参考](https://github.com/cyub/code-examples/tree/master/go/go-netstat)
