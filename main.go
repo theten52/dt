@@ -45,7 +45,7 @@ func main() {
 		},
 		Action: func(c *cli.Context) error {
 
-			color.Yellow("Current Model is [%v]", "starting")
+			color.Green("Current Model is [%v]", "starting")
 
 			return nil
 		},
