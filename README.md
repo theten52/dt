@@ -29,3 +29,5 @@ dev tool is a tool to simplify the daily use of commands for developers.
 [/proc on Mac OS X](http://web.archive.org/web/20200103161748/http://osxbook.com/book/bonus/ancient/procfs/)
 
 [一个netstat的实现，供参考](https://github.com/bastjan/netstat)
+
+[mac os 上实现 procfs](https://github.com/alexchandel/procfs)
