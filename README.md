@@ -5,7 +5,7 @@ dev tool is a tool to simplify the daily use of commands for developers.
 # Roadmap
 
 1. 使用 Go 开发这个工具。
-2. 发布到 Homebrew 官方仓库。[](https://)
+2. 发布到 Homebrew 官方仓库。
 
 # Reference
 
@@ -16,3 +16,5 @@ dev tool is a tool to simplify the daily use of commands for developers.
 [home brew formulae](https://formulae.brew.sh/)
 
 [参考项目代码](https://github.com/crossoverJie/btb)
+
+[使用 Go 语言在 MacOS 创建一个自定义的命令行工具](https://learnku.com/articles/39252)
